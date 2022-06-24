@@ -1,0 +1,175 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithCADImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "DatasmithC4DImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "DataprepGeometryOperations",
+			"Enabled": true
+		},
+		{
+			"Name": "DataprepEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkFreeD",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkLens",
+			"Enabled": true
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		},
+		{
+			"Name": "NeuralNetworkInference",
+			"Enabled": true
+		},
+		{
+			"Name": "ExampleCustomDataInterface",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemOculus",
+			"Enabled": true
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
+		},
+		{
+			"Name": "OSCModulationMixing",
+			"Enabled": true
+		},
+		{
+			"Name": "PanoramicCapture",
+			"Enabled": true
+		},
+		{
+			"Name": "DisasterRecoveryClient",
+			"Enabled": true
+		},
+		{
+			"Name": "UVEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualHeightfieldMesh",
+			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "Optimus",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		}
+	]
+}
